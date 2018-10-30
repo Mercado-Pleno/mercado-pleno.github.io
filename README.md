@@ -7,6 +7,8 @@ https://github.com/Bruno-N-Fernandes/MPSC.PlenoSoft.WatiN.Extension
 
 https://github.com/Bruno-N-Fernandes/MPSC.PlenoSoft.Office.PlenoExcel
 
+https://github.com/serratus/quaggaJS
+
 https://github.com/StackExchange/Dapper
 
 https://github.com/StackExchange/StackExchange.Redis
