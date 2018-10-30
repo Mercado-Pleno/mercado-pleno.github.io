@@ -7,6 +7,12 @@ https://github.com/Bruno-N-Fernandes/MPSC.PlenoSoft.WatiN.Extension
 
 https://github.com/Bruno-N-Fernandes/MPSC.PlenoSoft.Office.PlenoExcel
 
+https://www.nuget.org/packages/Zen.Barcode.Rendering.Framework/ (Zen.Barcode.Rendering.Framework)
+
+http://mvc.syncfusion.com/demos/reporting/sfbarcode/barcode/barcode
+
+https://archive.codeplex.com/?p=zxingnet
+
 https://github.com/serratus/quaggaJS
 
 https://github.com/StackExchange/Dapper
