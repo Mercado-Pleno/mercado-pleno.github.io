@@ -1,9 +1,20 @@
+# Repos
+> https://github.com/Bruno-N-Fernandes
+> > https://bruno-n-fernandes.github.io
+> > https://github.com/Bruno-N-Fernandes/bruno-n-fernandes.github.io
+> 
+> https://github.com/Mercado-Pleno
+> > https://mercado-pleno.github.io
+> > https://github.com/Mercado-Pleno/mercado-pleno.github.io
+> 
+> https://github.com/sidneisilvadev
+> > https://sidneisilvadev.github.io
+> > https://sidneisilvadev.github.io/projeto-enquete
+
+
 # Pages
-> https://bruno-n-fernandes.github.io
 > 
-> https://mercado-pleno.github.io
 > 
-> https://sidneisilvadev.github.io/projeto-enquete
 
 
 # Projects
@@ -20,7 +31,7 @@
 > https://app.plenoinvestidor.com.br
 
 
-# Mercado-Pleno.github.io
+# Outros...
 https://github.com/Mercado-Pleno/Mercado-Pleno.github.io
 
 https://github.com/Bruno-N-Fernandes/WatiN
