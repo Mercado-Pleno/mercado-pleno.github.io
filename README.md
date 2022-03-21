@@ -1,3 +1,25 @@
+# Pages
+> https://bruno-n-fernandes.github.io
+> 
+> https://mercado-pleno.github.io
+> 
+> https://sidneisilvadev.github.io/projeto-enquete
+
+
+# Projects
+> https://github.com/Mercado-Pleno/MPSTI.PlenoSoft.PlenoMentor
+> 
+> https://github.com/Mercado-Pleno/MPSTI.PlenoSoft.PlenoInvestidor
+> 
+> https://github.com/sidneisilvadev/projeto-enquete
+
+
+# Applications
+> https://mentoria.mercadopleno.com.br
+> 
+> https://app.plenoinvestidor.com.br
+
+
 # Mercado-Pleno.github.io
 https://github.com/Mercado-Pleno/Mercado-Pleno.github.io
 
