@@ -6,6 +6,8 @@
 > https://github.com/Mercado-Pleno
 > - https://github.com/Mercado-Pleno/mercado-pleno.github.io
 > - https://mercado-pleno.github.io
+> - https://github.com/Mercado-Pleno/MPSC.PlenoSoft.WhatsApp
+> - https://Mercado-Pleno.github.io/MPSC.PlenoSoft.WhatsApp
 > 
 > https://github.com/sidneisilvadev
 > - https://sidneisilvadev.github.io/projeto-enquete
