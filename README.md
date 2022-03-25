@@ -3,11 +3,19 @@
 > - https://github.com/Bruno-N-Fernandes/bruno-n-fernandes.github.io
 > - https://bruno-n-fernandes.github.io
 > 
+> 
 > https://github.com/Mercado-Pleno
 > - https://github.com/Mercado-Pleno/mercado-pleno.github.io
-> - https://mercado-pleno.github.io
+>   - https://mercado-pleno.github.io
 > - https://github.com/Mercado-Pleno/MPSC.PlenoSoft.WhatsApp
-> - https://Mercado-Pleno.github.io/MPSC.PlenoSoft.WhatsApp
+>   - https://Mercado-Pleno.github.io/MPSC.PlenoSoft.WhatsApp
+> - https://github.com/Mercado-Pleno/MPSTI.PlenoSoft.PlenoInvestidor
+>   - https://app.plenoinvestidor.com.br
+>   - https://api.plenoinvestidor.com.br/swagger/ui
+> - https://github.com/Mercado-Pleno/MPSTI.PlenoSoft.PlenoMentor
+>   - https://mentoria.mercadopleno.com.br
+>   - https://plenomentor.azurewebsites.net/api/swagger/ui
+>      
 > 
 > https://github.com/sidneisilvadev
 > - https://sidneisilvadev.github.io/projeto-enquete
